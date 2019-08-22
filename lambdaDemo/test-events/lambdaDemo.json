@@ -1,0 +1,12 @@
+{
+    "games": [
+      {
+        "title": "Grand Theft",
+        "rating": "M"
+      },
+      {
+        "title": "Cuphead",
+        "rating": "E"
+      }
+    ]
+  }
