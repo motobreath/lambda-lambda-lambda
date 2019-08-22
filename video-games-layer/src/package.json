@@ -1,0 +1,15 @@
+{
+  "name": "salesforce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "salesforce.js",
+  "dependencies": {
+    "aws-sdk": "^2.515.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
